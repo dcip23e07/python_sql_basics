@@ -11,7 +11,8 @@
   - username (must be atleast 8 characters long)
   - salary (must not be less than 0)
   - currency DEFAULT 'EUR'
-- add the following values to the table
+    
+- add the following values to the table. (You can add more random values)
   - (john, kennedy, 19, 2020-12-02 14:35, jfkennedy, 30000, EUR)
   - (alice, kennedy, 19, 2020-02-02 14:35, allkennedy, 2000, EUR)
   - (max, kennedy, 19, 2020-12-02 14:35, maxkennedy, 9000, USD)
