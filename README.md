@@ -41,5 +41,7 @@
   - employees who were employed in year 2024
   - employees who were employed in year 2020 and earn below 20000
 
+- Save all your queries and put them in a file called employee_queries.sql and upload them to your repository
+
 ## Python SQL task
 - use a python script to achieve the above with a psycopg2 connector
